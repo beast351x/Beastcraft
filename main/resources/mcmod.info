@@ -1,0 +1,16 @@
+[
+{
+  "modid": "beastcraft",
+  "name": "Beast Craft",
+  "description": "This is my new mod which is implementing features of my abandoned mods. Some of the mods that will be implemented are Extracraft, Beast351x's Mo' Tools Mod, and Crystal Craft. These are no longer up on my forge account. I hope you enjoy!",
+  "version": "Release 1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Beast351x"],
+  "credits": "Thanks to Neale Gaming for his Modding tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

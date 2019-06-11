@@ -1,0 +1,35 @@
+//Items
+item.coalIngot.name=Coal Ingot
+item.Polisher.name=Block Polisher
+
+item.Scissors.name=Scissors
+item.WoodConversionDevice.name=Wood Conversion Device
+item.StoneConversionDevice.name=Stone Conversion Device
+
+//Blocks
+tile.CoalBricksNormal.name=Coal Bricks
+tile.CoalBricksDecorated.name=Decorated Coal Bricks
+tile.CoalBricksSmooth.name=Smooth Coal Bricks
+tile.CoalBricksCracked.name=Cracked Coal Bricks
+tile.CoalBricksChiseled.name=Chiseled Coal Bricks
+
+tile.GlowstoneColoredBlack.name=Black Glowstone
+tile.GlowstoneColoredBlue.name=Blue Glowstone
+tile.GlowstoneColoredBrown.name=Brown Glowstone
+tile.GlowstoneColoredCyan.name=Cyan Glowstone
+tile.GlowstoneColoredDarkgrey.name=Dark Grey Glowstone
+tile.GlowstoneColoredGreen.name=Green Glowstone
+tile.GlowstoneColoredLightblue.name=Light Blue Glowstone
+tile.GlowstoneColoredLightgrey.name=Light Grey Glowstone
+tile.GlowstoneColoredLime.name=Lime Glowstone
+tile.GlowstoneColoredMagenta.name=Magenta Glowstone
+tile.GlowstoneColoredOrange.name=Orange Glowstone
+tile.GlowstoneColoredPink.name=Pink Glowstone
+tile.GlowstoneColoredPurple.name=Purple Glowstone
+tile.GlowstoneColoredRed.name=Red Glowstone
+tile.GlowstoneColoredWhite.name=White Glowstone
+tile.GlowstoneColoredYellow.name=Yellow Glowstone
+
+//CreativeTabs
+itemGroup.BCItemsTab=Beastcraft Items
+itemGroup.BCBlocksTab=Beastcraft Blocks
